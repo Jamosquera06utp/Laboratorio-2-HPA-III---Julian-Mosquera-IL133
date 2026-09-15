@@ -1,0 +1,14 @@
+C:\Users\julia\OneDrive\Documentos\HPA III\Actividad2\Actividad2\bin\Debug\net10.0\Actividad2.exe
+C:\Users\julia\OneDrive\Documentos\HPA III\Actividad2\Actividad2\bin\Debug\net10.0\Actividad2.deps.json
+C:\Users\julia\OneDrive\Documentos\HPA III\Actividad2\Actividad2\bin\Debug\net10.0\Actividad2.runtimeconfig.json
+C:\Users\julia\OneDrive\Documentos\HPA III\Actividad2\Actividad2\bin\Debug\net10.0\Actividad2.dll
+C:\Users\julia\OneDrive\Documentos\HPA III\Actividad2\Actividad2\bin\Debug\net10.0\Actividad2.pdb
+C:\Users\julia\OneDrive\Documentos\HPA III\Actividad2\Actividad2\obj\Debug\net10.0\Actividad2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julia\OneDrive\Documentos\HPA III\Actividad2\Actividad2\obj\Debug\net10.0\Actividad2.AssemblyInfoInputs.cache
+C:\Users\julia\OneDrive\Documentos\HPA III\Actividad2\Actividad2\obj\Debug\net10.0\Actividad2.AssemblyInfo.cs
+C:\Users\julia\OneDrive\Documentos\HPA III\Actividad2\Actividad2\obj\Debug\net10.0\Actividad2.csproj.CoreCompileInputs.cache
+C:\Users\julia\OneDrive\Documentos\HPA III\Actividad2\Actividad2\obj\Debug\net10.0\Actividad2.dll
+C:\Users\julia\OneDrive\Documentos\HPA III\Actividad2\Actividad2\obj\Debug\net10.0\refint\Actividad2.dll
+C:\Users\julia\OneDrive\Documentos\HPA III\Actividad2\Actividad2\obj\Debug\net10.0\Actividad2.pdb
+C:\Users\julia\OneDrive\Documentos\HPA III\Actividad2\Actividad2\obj\Debug\net10.0\Actividad2.genruntimeconfig.cache
+C:\Users\julia\OneDrive\Documentos\HPA III\Actividad2\Actividad2\obj\Debug\net10.0\ref\Actividad2.dll
