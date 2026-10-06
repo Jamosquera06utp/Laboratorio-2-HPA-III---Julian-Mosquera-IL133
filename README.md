@@ -58,21 +58,11 @@ El programa permite trabajar con diferentes nombres de cursos y modificar el nom
 
 ## 📁 Estructura de Carpetas o Directorios
 ```text
-Lab 2/
-│
-├── LibroCalificacion/
-│   ├── LibroCalificacion.cs
-│   ├── Program.cs
-│   └── ...
-│
-├── LibroCalificacion_2/
-│   ├── MiLibroCalificaciones.cs
-│   ├── Program.cs
-│   └── ...
-│
-├── LibroCalificaciones_3/
-│   ├── LibroCalificiones.cs
-│   ├── Program.cs
-│   └── ...
+├── Actividad1/
+├── Actividad2/
+├── Actividad3/
+├── Laboratorio Orientado A Objetos.zip
+└── README.md
+```
 │
 └── README.md
