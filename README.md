@@ -1,28 +1,78 @@
-# C# - Libro de Calificaciones (Actividades 1, 2 y Lab 3)
-
-Proyecto de consola en C# que muestra la evolución orientada a objetos de una clase `LibroCalificaciones`. El desarrollo abarca desde la instanciación básica y métodos simples hasta el uso de constructores, encapsulamiento con propiedades (`get`/`set`) y validación estricta de entradas por consola.
+# 🧪 Laboratorio 2
+**Fecha:** 01/08/2026
 
 ---
 
-## Estructura del Proyecto
+## 📚 Contenido del Repositorio
+En este laboratorio se trabajó con el desarrollo de aplicaciones en C#, utilizando clases, objetos, constructores, métodos y propiedades.
 
-El código está dividido en tres etapas secuenciales de aprendizaje:
+El laboratorio contiene diferentes versiones del ejercicio **Libro de Calificaciones**, mediante las cuales se practican conceptos fundamentales de programación orientada a objetos.
 
-### 1. Actividad 1: Declaración de Clase e Instanciación Básica
-* **Espacio de nombres:** `LibroCalificaciones_1`
-* **Conceptos:** Creación de una clase (`LibroCalificacion`), instanciación con el operador `new` y llamada a métodos sin parámetros (`MostrarMensaje()`).
-* **Control de flujo:** Validación del tipo de dato ingresado para la cantidad de materias usando `int.TryParse`.
+### 📌 Ejercicios incluidos
+- 📖 **Libro de Calificación**
+- 📖 **Libro de Calificación 2**
+- 📖 **Libro de Calificaciones 3**
 
-### 2. Actividad 2: Métodos con Parametrización
-* **Espacio de nombres:** `LibroCalificaciones_2`
-* **Conceptos:** Pasaje de argumentos a métodos (`MostrarMensaje(string nombreCurso)`).
-* **Control de flujo:** Manejo de datos de entrada mediante `string.IsNullOrEmpty` para evitar cadenas vacías.
+---
 
-### 3. Lab 3: Encapsulamiento, Constructores y Propiedades
-* **Espacio de nombres:** `LibroCalificacionesModificadores`
-* **Conceptos:**
-  * Atributos privados (`private string nombreCurso`).
-  * Constructor parametrizado para inicialización de objetos.
-  * Encapsulamiento con propiedades C# (`get` / `set`).
-* **Control de flujo:** Sanitización de entradas con `string.IsNullOrWhiteSpace` y parseo seguro con `int.TryParse`.
+## 🛠️ Tecnologías Utilizadas
+- 💻 **Lenguaje:** C#
+- 🧩 **Framework:** .NET
+- 🖥️ **IDE:** Visual Studio
+- 📦 **Control de versiones:** Git & GitHub
 
+---
+
+## 📸 Capturas de Pantalla y Problemas
+
+### 📖 Problema 1: Libro de Calificación
+En este ejercicio se crea una clase `LibroCalificacion` que contiene un método para mostrar un mensaje de bienvenida. El programa crea un objeto de la clase y ejecuta el método correspondiente.
+
+#### 📸 Captura de pantalla:
+![Libro de Calificación](image)
+
+---
+
+### 📖 Problema 2: Libro de Calificación 2
+En este ejercicio se trabaja con una clase que recibe el nombre del curso y posteriormente muestra un mensaje de bienvenida. El nombre del curso es ingresado por el usuario y enviado al método correspondiente.
+
+#### 📸 Captura de pantalla:
+![Libro de Calificación 2](image)
+
+---
+
+### 📖 Problema 3: Libro de Calificaciones 3
+En este ejercicio se implementa una clase `LibroCalificaciones` utilizando:
+- 🏗️ **Constructor**
+- 🔐 **Propiedad** `NombreCurso`
+- 📌 **Métodos**
+- 📥 **Entrada de datos**
+- 📤 **Salida de información**
+
+El programa permite trabajar con diferentes nombres de cursos y modificar el nombre del curso mediante la propiedad correspondiente.
+
+#### 📸 Captura de pantalla:
+![Libro de Calificaciones 3](image)
+
+---
+
+## 📁 Estructura de Carpetas o Directorios
+```text
+Lab 2/
+│
+├── LibroCalificacion/
+│   ├── LibroCalificacion.cs
+│   ├── Program.cs
+│   └── ...
+│
+├── LibroCalificacion_2/
+│   ├── MiLibroCalificaciones.cs
+│   ├── Program.cs
+│   └── ...
+│
+├── LibroCalificaciones_3/
+│   ├── LibroCalificiones.cs
+│   ├── Program.cs
+│   └── ...
+│
+└── README.md
